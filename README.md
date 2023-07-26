@@ -1,6 +1,6 @@
 # music_app
 
-A new Flutter project.
+A new Flutter project. basically it's a Ui of musicApp contain 2 screen. here i used state management as getX. 
 
 ## Getting Started
 
